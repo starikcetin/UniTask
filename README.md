@@ -1,3 +1,14 @@
+[![openupm](https://img.shields.io/npm/v/com.cysharp.unitask?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.cysharp.unitask/)
+
+This repository has UPM support. You can install it as follows:
+
+```
+npm install -g openupm-cli
+openupm add com.cysharp.unitask
+```
+
+---
+
 # UniTask
 
 [![CircleCI](https://circleci.com/gh/Cysharp/UniTask.svg?style=svg)](https://circleci.com/gh/Cysharp/UniTask)

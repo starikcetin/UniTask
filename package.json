@@ -1,0 +1,10 @@
+{
+	"author": "Cysharp (https://github.com/Cysharp)",
+	"description": "Provides an efficient async/await integration to Unity.",
+	"displayName": "UniTask",
+	"license": "MIT",
+	"name": "com.cysharp.unitask",
+	"version": "1.2.0",
+	"type": "library",
+	"dependencies": {}
+}

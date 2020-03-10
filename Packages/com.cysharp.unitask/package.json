@@ -6,6 +6,5 @@
 	"name": "com.cysharp.unitask",
 	"version": "1.2.0",
 	"type": "library",
-	"dependencies": {
-	}
+	"dependencies": {}
 }
